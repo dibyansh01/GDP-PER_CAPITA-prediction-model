@@ -1,6 +1,6 @@
 # **GDP-PER_CAPITA-Prediction-Model**
 <h2>Problem Statement</h2>
-<p>The objective of this project is to develop a machine learning model that can accurately predict the Gross Domestic Product (GDP) of our country. By leveraging historical GDP data and its features, the model will provide forecasts of future GDP values.</p>
+<p>The objective of this project is to develop a machine learning model that can accurately predict the Gross Domestic Product (GDP) of our country. By leveraging historical GDP, Per Capita and Growth% data with its features, the model will provide forecasts of future GDP & Per Capita values.</p>
 <h3>Introduction</h3>
 <ul>
 <li>Time series analysis techniques, such as the Autoregressive Integrated Moving Average (ARIMA) model, have proven to be effective in forecasting economic variables. In this context, this project aims to develop an ARIMA-based time series model for predicting GDP</li>
