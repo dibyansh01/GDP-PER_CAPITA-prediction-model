@@ -10,6 +10,6 @@
 <li>You can customize this project as per your imagination and let others know the beauty of your imagination.</li>
   <h3>Summary</h3>
   <ul>
-    <li>In summary,This ARIMA-based GDP prediction model with low residue skew, residue mean close to zero, and P-values near zero indicates a reliable and accurate forecasting model. These measures provide evidence that the model is effectively capturing the temporal patterns and dependencies in the GDP data, producing unbiased predictions centered around the actual values</li>
+    <li>In summary,This GDP prediction model with log transformation, low residue skew, close to zero residue mean, and P-values close to zero suggests a trustworthy and accurate forecasting model. These indicators show that the model successfully captures the temporal dependencies and patterns in the GDP data, resulting in impartial predictions that are centered on the actual values. </li>
   </ul>
 </ul>
