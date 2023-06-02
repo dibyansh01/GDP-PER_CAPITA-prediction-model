@@ -13,6 +13,6 @@
 <h3>Summary</h3>
 <ul>
   <li>In summary,This GDP prediction model with log transformation, low residue skew, close to zero residue mean, and P-values close to zero suggests a trustworthy and accurate forecasting model. These indicators show that the model successfully captures the temporal dependencies and patterns in the GDP data, resulting in impartial predictions that are centered on the actual values. </li>
-  <li>You can customize this project as per your imagination and let others know the beauty of your imagination.</li>
+  <li>You can modify this project using various other ML models and share the results of your improvement with others.</li>
 </ul>
 
